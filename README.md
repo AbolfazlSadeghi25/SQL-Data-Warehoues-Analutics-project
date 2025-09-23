@@ -1,1 +1,1 @@
-# SQL-Data-Warehoues-Analutics-project
+# SQL-Data-Warehoues-Analytics-project
